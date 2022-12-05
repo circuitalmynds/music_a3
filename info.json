@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Twelve Waltzes and Coda - No. 3-BPsR3jrIutU.mp4?raw=true"
         },
         {
+            "id": "-ErfP2y4arE",
+            "name": "Organ Grinder's Swing--ErfP2y4arE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Organ Grinder's Swing--ErfP2y4arE.mp4",
+            "size": 2.1346089999999998,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Organ Grinder's Swing--ErfP2y4arE.mp4?raw=true"
+        },
+        {
             "id": "7XWJJdF4RJU",
             "name": "Pizzicato - Elisa dalla Vecchia e Matilde dal Zotto (age12)-7XWJJdF4RJU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Pizzicato - Elisa dalla Vecchia e Matilde dal Zotto (age12)-7XWJJdF4RJU.mp4",
@@ -79,11 +86,25 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt, Verdi - Il Trovatore - Miserere, Concert Paraphrase S.433-UKkRiBRo_Ss.mp4?raw=true"
         },
         {
+            "id": "HXCuYRkxdgM",
+            "name": "Tcha\u00efkovski  - Casse-Noisette, suite d'orchestre (Orchestre philharmonique de Radio France)-HXCuYRkxdgM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Tcha\u00efkovski  - Casse-Noisette, suite d'orchestre (Orchestre philharmonique de Radio France)-HXCuYRkxdgM.mp4",
+            "size": 84.041022,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Tcha\u00efkovski  - Casse-Noisette, suite d'orchestre (Orchestre philharmonique de Radio France)-HXCuYRkxdgM.mp4?raw=true"
+        },
+        {
             "id": "YJvZVU2Hj4k",
             "name": "Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4",
             "size": 3.7263569999999997,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4?raw=true"
+        },
+        {
+            "id": "wKFXMnjQI8k",
+            "name": "Liszt - Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244-wKFXMnjQI8k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244-wKFXMnjQI8k.mp4",
+            "size": 9.220398,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244-wKFXMnjQI8k.mp4?raw=true"
         },
         {
             "id": "WLT55kPIFCo",
@@ -93,11 +114,25 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Sergei Prokofiev - Symphony no.1, op.25 (complete)-WLT55kPIFCo.mp4?raw=true"
         },
         {
+            "id": "yxtHh94tMPU",
+            "name": "Ignacy Jan Paderewski - Piano Concerto Op. 17 (1888)-yxtHh94tMPU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Ignacy Jan Paderewski - Piano Concerto Op. 17 (1888)-yxtHh94tMPU.mp4",
+            "size": 47.174209999999995,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Ignacy Jan Paderewski - Piano Concerto Op. 17 (1888)-yxtHh94tMPU.mp4?raw=true"
+        },
+        {
             "id": "EhuxUVizq-8",
             "name": "Digital Rasta (Remastered)-EhuxUVizq-8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Digital Rasta (Remastered)-EhuxUVizq-8.mp4",
             "size": 6.703519999999999,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Digital Rasta (Remastered)-EhuxUVizq-8.mp4?raw=true"
+        },
+        {
+            "id": "7uUw7Gj74dg",
+            "name": "Liszt - Consolation No. 6, S.172 No. 6-7uUw7Gj74dg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Consolation No. 6, S.172 No. 6-7uUw7Gj74dg.mp4",
+            "size": 2.1480889999999997,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Consolation No. 6, S.172 No. 6-7uUw7Gj74dg.mp4?raw=true"
         },
         {
             "id": "OUZLRANEjik",
@@ -149,5 +184,5 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/''Harold en Italie'' Symphony No.2 in G major - H\u00e9ctor Berlioz-Hi3GzlMtUDc.mp4?raw=true"
         }
     ],
-    "total_size": 213.032671
+    "total_size": 357.750999
 }
