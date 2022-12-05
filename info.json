@@ -2,11 +2,25 @@
     "available_space": true,
     "content": [
         {
+            "id": "PlZbECCzUkc",
+            "name": "I Mean to Say-PlZbECCzUkc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/I Mean to Say-PlZbECCzUkc.mp4",
+            "size": 3.971123,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/I Mean to Say-PlZbECCzUkc.mp4?raw=true"
+        },
+        {
             "id": "3UjVIsNzpFk",
             "name": "To Sir, With Love - Lulu-3UjVIsNzpFk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/To Sir, With Love - Lulu-3UjVIsNzpFk.mp4",
             "size": 3.8513029999999997,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/To Sir, With Love - Lulu-3UjVIsNzpFk.mp4?raw=true"
+        },
+        {
+            "id": "D7UzZOa_Khc",
+            "name": "Liszt - Ihr Auge S.310-D7UzZOa_Khc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Ihr Auge S.310-D7UzZOa_Khc.mp4",
+            "size": 0.53006,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Ihr Auge S.310-D7UzZOa_Khc.mp4?raw=true"
         },
         {
             "id": "0oM_qYJEFUg",
@@ -28,6 +42,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Du bist wie eine Blume (Heine)-H7UvcAaczRY.mp4",
             "size": 1.351602,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Du bist wie eine Blume (Heine)-H7UvcAaczRY.mp4?raw=true"
+        },
+        {
+            "id": "virspnHpB4k",
+            "name": "Que Va a Ser de Ti-virspnHpB4k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Que Va a Ser de Ti-virspnHpB4k.mp4",
+            "size": 5.339155,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Que Va a Ser de Ti-virspnHpB4k.mp4?raw=true"
         },
         {
             "id": "l2gM8_-8xWU",
@@ -86,6 +107,13 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - I. Sposalizio-o__8RFBUk6A.mp4?raw=true"
         },
         {
+            "id": "hprGe5KKdW4",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VI. Vall\u00e9e d'Obermann-hprGe5KKdW4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VI. Vall\u00e9e d'Obermann-hprGe5KKdW4.mp4",
+            "size": 9.356475,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VI. Vall\u00e9e d'Obermann-hprGe5KKdW4.mp4?raw=true"
+        },
+        {
             "id": "GsNk2iioBl0",
             "name": "On Nirvana-GsNk2iioBl0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/On Nirvana-GsNk2iioBl0.mp4",
@@ -135,6 +163,20 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Sergei Prokofiev - Symphony no.1, op.25 (complete)-WLT55kPIFCo.mp4?raw=true"
         },
         {
+            "id": "j9GxGyVMjVE",
+            "name": "Riccardo Cocciante  - Disco Sencillo 45 rpm-j9GxGyVMjVE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Riccardo Cocciante  - Disco Sencillo 45 rpm-j9GxGyVMjVE.mp4",
+            "size": 12.222328,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Riccardo Cocciante  - Disco Sencillo 45 rpm-j9GxGyVMjVE.mp4?raw=true"
+        },
+        {
+            "id": "fAYuH3vGU94",
+            "name": "Jam-Master Jay-fAYuH3vGU94.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Jam-Master Jay-fAYuH3vGU94.mp4",
+            "size": 3.702739,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Jam-Master Jay-fAYuH3vGU94.mp4?raw=true"
+        },
+        {
             "id": "aGm3eun7xzM",
             "name": "Chris Barber  v  Ma\u010farsku - 1963-aGm3eun7xzM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Chris Barber  v  Ma\u010farsku - 1963-aGm3eun7xzM.mp4",
@@ -175,6 +217,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VIII. Le mal du pays-OUZLRANEjik.mp4",
             "size": 3.96237,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VIII. Le mal du pays-OUZLRANEjik.mp4?raw=true"
+        },
+        {
+            "id": "6Tg1MKyGTKs",
+            "name": "Granados - Goyescas - Larrocha 1963-6Tg1MKyGTKs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Granados - Goyescas - Larrocha 1963-6Tg1MKyGTKs.mp4",
+            "size": 66.25985299999999,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Granados - Goyescas - Larrocha 1963-6Tg1MKyGTKs.mp4?raw=true"
         },
         {
             "id": "Lx9JfXHDj1w",
@@ -226,5 +275,5 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/''Harold en Italie'' Symphony No.2 in G major - H\u00e9ctor Berlioz-Hi3GzlMtUDc.mp4?raw=true"
         }
     ],
-    "total_size": 458.17432800000006
+    "total_size": 559.556061
 }
