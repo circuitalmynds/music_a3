@@ -2,6 +2,20 @@
     "available_space": true,
     "content": [
         {
+            "id": "yXo1BNcbmXk",
+            "name": "I'm Building up to an Awful Let-Down (From 'Follow the Fleet')-yXo1BNcbmXk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/I'm Building up to an Awful Let-Down (From 'Follow the Fleet')-yXo1BNcbmXk.mp4",
+            "size": 4.44164,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/I'm Building up to an Awful Let-Down (From 'Follow the Fleet')-yXo1BNcbmXk.mp4?raw=true"
+        },
+        {
+            "id": "H7UvcAaczRY",
+            "name": "Liszt - Du bist wie eine Blume (Heine)-H7UvcAaczRY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Du bist wie eine Blume (Heine)-H7UvcAaczRY.mp4",
+            "size": 1.351602,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Du bist wie eine Blume (Heine)-H7UvcAaczRY.mp4?raw=true"
+        },
+        {
             "id": "l2gM8_-8xWU",
             "name": "Boy! What Love Has Done to Me!-l2gM8_-8xWU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Boy! What Love Has Done to Me!-l2gM8_-8xWU.mp4",
@@ -14,6 +28,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/THE HURRICANES - ONLY ONE NIGHT (ITALO DISCO)-YYbzS4CwfxY.mp4",
             "size": 6.7626159999999995,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/THE HURRICANES - ONLY ONE NIGHT (ITALO DISCO)-YYbzS4CwfxY.mp4?raw=true"
+        },
+        {
+            "id": "BiTdXsgP35s",
+            "name": "Keyboard Sonata No. 11 in B-Flat Major, Hob. XVI, 2 - III. Menuet-BiTdXsgP35s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Keyboard Sonata No. 11 in B-Flat Major, Hob. XVI, 2 - III. Menuet-BiTdXsgP35s.mp4",
+            "size": 3.872071,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Keyboard Sonata No. 11 in B-Flat Major, Hob. XVI, 2 - III. Menuet-BiTdXsgP35s.mp4?raw=true"
         },
         {
             "id": "O9jZmpClBpA",
@@ -56,6 +77,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt, Verdi - Il Trovatore - Miserere, Concert Paraphrase S.433-UKkRiBRo_Ss.mp4",
             "size": 5.2871239999999995,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt, Verdi - Il Trovatore - Miserere, Concert Paraphrase S.433-UKkRiBRo_Ss.mp4?raw=true"
+        },
+        {
+            "id": "YJvZVU2Hj4k",
+            "name": "Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4",
+            "size": 3.7263569999999997,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Danza Lucumi (Remastered)-YJvZVU2Hj4k.mp4?raw=true"
         },
         {
             "id": "WLT55kPIFCo",
@@ -105,7 +133,21 @@
             "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Morgens steh' ich auf und frage, S. 290-pRU9AcZbeOo.mp4",
             "size": 1.082118,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Morgens steh' ich auf und frage, S. 290-pRU9AcZbeOo.mp4?raw=true"
+        },
+        {
+            "id": "-YGSKB5EkUM",
+            "name": "Liszt - Ich liebe dich, S. 315 (1857)--YGSKB5EkUM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/Liszt - Ich liebe dich, S. 315 (1857)--YGSKB5EkUM.mp4",
+            "size": 1.716504,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Ich liebe dich, S. 315 (1857)--YGSKB5EkUM.mp4?raw=true"
+        },
+        {
+            "id": "Hi3GzlMtUDc",
+            "name": "''Harold en Italie'' Symphony No.2 in G major - H\u00e9ctor Berlioz-Hi3GzlMtUDc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a3/videos/''Harold en Italie'' Symphony No.2 in G major - H\u00e9ctor Berlioz-Hi3GzlMtUDc.mp4",
+            "size": 86.924047,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/''Harold en Italie'' Symphony No.2 in G major - H\u00e9ctor Berlioz-Hi3GzlMtUDc.mp4?raw=true"
         }
     ],
-    "total_size": 111.00045
+    "total_size": 213.032671
 }
