@@ -198,6 +198,13 @@
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Liszt - Années de pèlerinage II, S. 161 - I. Sposalizio-o__8RFBUk6A.mp4?raw=true"
         },
         {
+            "id": "95TVQkyR0zk",
+            "name": "Camille Saint-Saëns  - Africa, Op. 89 (1891) [95TVQkyR0zk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a3/videos/Camille Saint-Saëns  - Africa, Op. 89 (1891) [95TVQkyR0zk].mp4",
+            "size": 23.716288,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Camille Saint-Saëns  - Africa, Op. 89 (1891) [95TVQkyR0zk].mp4?raw=true"
+        },
+        {
             "id": "bbIAPqQcWkQ",
             "name": "Ravel - Rapsodie espagnole ∙ hr-Sinfonieorchester ∙ Pablo Heras-Casado-bbIAPqQcWkQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a3/videos/Ravel - Rapsodie espagnole ∙ hr-Sinfonieorchester ∙ Pablo Heras-Casado-bbIAPqQcWkQ.mp4",
@@ -238,6 +245,13 @@
             "path": "/home/alanmatzumiya/Videos/container/a3/videos/Images, Série II - No. 3, Poissons d'or-UwyaL-DECrg.mp4",
             "size": 3.918125,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Images, Série II - No. 3, Poissons d'or-UwyaL-DECrg.mp4?raw=true"
+        },
+        {
+            "id": "EMFWuGd7vSo",
+            "name": "Rachmaninoff Polka de W. R. (Horowitz) [EMFWuGd7vSo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a3/videos/Rachmaninoff Polka de W. R. (Horowitz) [EMFWuGd7vSo].mp4",
+            "size": 9.967407,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Rachmaninoff Polka de W. R. (Horowitz) [EMFWuGd7vSo].mp4?raw=true"
         },
         {
             "id": "Lx9JfXHDj1w",
@@ -378,7 +392,14 @@
             "path": "/home/alanmatzumiya/Videos/container/a3/videos/On Nirvana-GsNk2iioBl0.mp4",
             "size": 4.455038,
             "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/On Nirvana-GsNk2iioBl0.mp4?raw=true"
+        },
+        {
+            "id": "Bpkop4vEIEA",
+            "name": "Piano Concerto in A Minor, Op. 85： I. Allegro moderato [Bpkop4vEIEA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a3/videos/Piano Concerto in A Minor, Op. 85： I. Allegro moderato [Bpkop4vEIEA].mp4",
+            "size": 44.259107,
+            "url": "https://github.com/circuitalmynds/music_a3/blob/main/videos/Piano Concerto in A Minor, Op. 85： I. Allegro moderato [Bpkop4vEIEA].mp4?raw=true"
         }
     ],
-    "total_size": 837.6573639999999
+    "total_size": 915.6001660000001
 }
